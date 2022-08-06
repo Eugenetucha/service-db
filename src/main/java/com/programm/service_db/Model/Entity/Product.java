@@ -1,4 +1,4 @@
-package com.programm.service_db.Entity;
+package com.programm.service_db.Model.Entity;
 
 import lombok.Getter;
 import lombok.Setter;
