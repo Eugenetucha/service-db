@@ -5,4 +5,5 @@ import lombok.Data;
 @Data
 public class MinAndMaxExpenses {
     private int minExpenses;
+    private int maxExpenses;
 }
